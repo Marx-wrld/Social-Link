@@ -6,6 +6,7 @@ A simple developer's social link project in tailwind CSS, that contains links to
 npm run build
 
 ```
+- Run the index page using Live-server extension, to view the output
 
 <img src="https://github.com/Marx-wrld/Social-Link/assets/105711066/cbfb8ad4-037a-4bb7-bc29-d78ff69065cf.jpg" width="800" height="400" align="left"/>
 
