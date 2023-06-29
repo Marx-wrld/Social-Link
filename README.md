@@ -5,3 +5,7 @@ A simple developer's social link project in tailwind CSS, that contains links to
 
 <img src="https://github.com/Marx-wrld/Social-Link/assets/105711066/caf23e7d-90ae-47bf-9c73-747e775ddf3d.jpg" width="800" height="400" align="left"/>
 
+```
+npm run build
+
+```
