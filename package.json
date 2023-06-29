@@ -1,0 +1,15 @@
+{
+  "name": "social-link",
+  "version": "1.0.0",
+  "description": "A simple social link project in tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./style.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "keywords": []
+}
