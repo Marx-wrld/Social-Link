@@ -8,9 +8,7 @@ npm run build
 ```
 - Run the index page using Live-server extension, to view the output.
 
-<img src="https://github.com/Marx-wrld/Social-Link/assets/105711066/27c3f5cf-0499-407c-84c4-c22d3d97758a.jpg" width="800" height="400" align="left"/>
-
-<img src="https://github.com/Marx-wrld/Social-Link/assets/105711066/ed1bf519-a51e-4641-addf-eba5da5e7fbb.jpg" width="800" height="400" align="left"/>
 
 
+![Screenshot (5)](https://github.com/Marx-wrld/Social-Link/assets/105711066/72156c7f-f807-43d4-b26f-f4a86e93a66a)
 
